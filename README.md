@@ -8,6 +8,8 @@
 
 ## if you want to clone this repo then you will do two things 
 
+# make sure that both backend and frontend run on the server along first start backend part and second start frontend part  
+
 first thing that : clone front-end and back-end Repository of full project 
 
 ## Link Here for Front-End Repository : https://github.com/Safaid-Ansari/userinterface
